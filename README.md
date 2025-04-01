@@ -37,77 +37,77 @@ Passionate Software Developer | AI And Application Enthusiast
 <table align="center">
   <tr>
      <td align="center"  width="88">
-         <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
+         <img src="./img/01-html5.svg" alt="HTML5" width="44" height="44"/>
       <br>HTML5
     </td>
     <td align="center" width="88">
-        <img src="./images/icons8-css3-100.png" alt="CSS3" width="44" height="44"/>
+        <img src="./img/icons8-css3-100.png" alt="CSS3" width="44" height="44"/>
       <br>CSS3
     </td>
 <td align="center" width="88">
-         <img src="./images/icons8-javascript-96.png" alt="JS" width="44" height="44"/>
+         <img src="./img/icons8-javascript-96.png" alt="JS" width="44" height="44"/>
       <br>JavaScript
     </td>
     <td align="center" width="88">
-        <img src="./images/icons8-typescript-96.png" alt="TS" width="44" height="44"/>
+        <img src="./img/icons8-typescript-96.png" alt="TS" width="44" height="44"/>
       <br>TypeScript
     </td>
     <td align="center" width="88">
-        <img src="./images/icons8-python-96.png" alt="Python" width="44" height="44"/>
+        <img src="./img/icons8-python-96.png" alt="Python" width="44" height="44"/>
       <br>Python
     </td>
     <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
+        <img src="./img/06-react.svg" alt="React" width="44" height="44"/>
       <br>React.js
     </td>
     <td align="center" width="88">
-        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+        <img src="./img/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
       <br>Next.js
     </td>
     <td align="center" width="88">
-      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
+      <img src="./img/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
     </td>
         <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
+       <img src="./img/09-sql.svg" alt="SQL" width="44" height="44"/>
       <br>SQL
       </td>
   </tr>
     <td align="center" width="88">
-        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+        <img src="./img/10-sass.svg" alt="Sass" width="44" height="44"/>
       <br>Sass
     </td>
     <td align="center" width="88"> 
-        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
+        <img src="./img/11-bem.svg" alt="Bem" width="44" height="44"/>
       <br>BEM
     </td>
     <td align="center"  width="88">
-        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+        <img src="./img/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
     </td>
     <td align="center" width="88">
-        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
+        <img src="./img/13-redux.svg" alt="Redux" width="44" height="44"/>
       <br>Redux
     </td>
       <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
+        <img src="./img/14-postman.svg" alt="Postman" width="44" height="44"/>
       <br>Postman
     </td>
       </td>
       <td align="center" width="88">
-        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
+        <img src="./img/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
       <br>MongoDB
      </td>
      <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
+        <img src="./img/16-git.svg" alt="Git" width="44" height="44"/>
       <br>Git
     </td>
   <td align="center" width="88">
-        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
+        <img src="./img/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
       <br>VSCode
      </td>
   <td align="center" width="88">
-        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
+        <img src="./img/18-figma.svg" alt="Figma" width="44" height="44"/>
       <br>Figma
      </td>
 </table>
