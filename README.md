@@ -78,8 +78,8 @@ Passionate Software Developer | AI And Application Enthusiast
       <br>Sass
     </td>
     <td align="center" width="88"> 
-        <img src="./assets/img/11-bem.svg" alt="Bem" width="44" height="44"/>
-      <br>BEM
+        <img src="./assets/img/ai-ashishshende.png" alt="Bem" width="44" height="44"/>
+      <br>AIML
     </td>
     <td align="center"  width="88">
         <img src="./assets/img/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
