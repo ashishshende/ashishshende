@@ -41,19 +41,19 @@ Passionate Software Developer | AI And Application Enthusiast
       <br>HTML5
     </td>
     <td align="center" width="88">
-        <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
+        <img src="./images/icons8-css3-100.png" alt="CSS3" width="44" height="44"/>
       <br>CSS3
     </td>
 <td align="center" width="88">
-         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
+         <img src="./images/icons8-javascript-96.png" alt="JS" width="44" height="44"/>
       <br>JavaScript
     </td>
     <td align="center" width="88">
-        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
+        <img src="./images/icons8-typescript-96.png" alt="TS" width="44" height="44"/>
       <br>TypeScript
     </td>
     <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
+        <img src="./images/icons8-python-96.png" alt="Python" width="44" height="44"/>
       <br>Python
     </td>
     <td align="center" width="88">
