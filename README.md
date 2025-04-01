@@ -37,7 +37,7 @@ Passionate Software Developer | AI And Application Enthusiast
 <table align="center">
   <tr>
      <td align="center"  width="88">
-         <img src="./assets/img/01-html5.svg" alt="HTML5" width="44" height="44"/>
+         <img src="./assets/img/icons8-html5-96.png" alt="HTML5" width="44" height="44"/>
       <br>HTML5
     </td>
     <td align="center" width="88">
