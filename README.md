@@ -4,7 +4,7 @@
 
 <h1>
 Hey there, I'm Ashish Shende!
-<img src="[./assets/giphy.gif](https://ashishshende.in/assets/img/github-ashishshende.png)" width="30px" alt="github-ashishshende">
+<img src="./assets/img/github-ashishshende.png" width="30px" alt="github-ashishshende">
 </h1>
 
    </div>
